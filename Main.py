@@ -1,3 +1,4 @@
+from Mage import Mage
 
 mage0 = Mage()
 mage1 = Mage()
