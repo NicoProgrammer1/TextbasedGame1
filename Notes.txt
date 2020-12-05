@@ -1,0 +1,32 @@
+GENERAL NOTES:
+underscores function example self_self
+Capitalize first letter class names example class Person
+underscore for methods
+camelcase for variables
+Capital Mixed case for Classes
+ALL CAPS for constants
+
+----------------------------------------------------------------
+DEVLOG: 3th of December 2020
+
+-Created Several Files
+ -seperated classes
+ -Created GodObject
+  -learned about super init (LEARN MEANING OF SUPER INIT)
+ -learned how importation works
+
+-Option to attack
+ -attack function of person
+  -example mages can now attack other mages
+
+----------------------------------------------------------------
+
+THINGS TO IMPLEMENT:
+
+# answer = input("Would you like to use your sword? (Yes/No)")
+# if answer == ("yes"):
+#     p1.swordattack_move()
+#     print(p1.Hp)
+
+
+
