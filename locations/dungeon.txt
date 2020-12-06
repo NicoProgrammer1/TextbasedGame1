@@ -1,0 +1,10 @@
+f"Welcome to the Dungeon {p.name}"
+f"Would you like to have a weapon?"
+::f"Yes"//!print("You got a sword");p.hasword = True
+::f"No"//!print("You have your fists"); p.hasword = False
+~
+!if(p.hasword == True): goToLine(10)
+f"You died"
+!p.dead = True
+!gameplaying = False
+f"You survived"

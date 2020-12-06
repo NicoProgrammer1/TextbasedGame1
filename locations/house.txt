@@ -1,0 +1,9 @@
+$f"What is your name?"//!p.name = string
+f"Hello {p.name} welcome to the house"
+f"This is a scary mansion!"
+f"But it's probably not as scary as the dungeon"
+f"Where would you like to go?"
+::f"Go to {p.name}'s' mansion?"//!goTo("mansion")
+::f"Go to the dungeon?"//!goTo("dungeon")
+~
+!goTo("dungeon") ; print("TO THE DUNGEON!!")

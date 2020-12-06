@@ -1,0 +1,5 @@
+f"There's a big door"
+f"And a long corridor"
+f"And a dark guest room"
+f"And a dirty old kitchen"
+f"And a monster!"
